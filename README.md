@@ -15,3 +15,8 @@ n8n ready on ::, port 5678
 
 When you see that → leave this window open.
 n8n stops if you close the terminal.
+
+
+FLOX- Password
+
+Gokul534401#
