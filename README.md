@@ -19,3 +19,14 @@ https://red-mugs-visit.loca.lt/
 
 
 No of Nodes: 17
+
+
+For PVt tunelling
+```
+ssh -R 80:localhost:5678 serveo.net
+```
+
+
+
+## last update
+ <img width="1263" height="554" alt="image" src="https://github.com/user-attachments/assets/569d9dbb-ee60-46d9-9c4c-8aa1a6e0556d" />
